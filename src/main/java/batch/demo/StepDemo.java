@@ -16,9 +16,7 @@ import org.springframework.transaction.PlatformTransactionManager;
 
 import batch.tasklet.HelloWorldTaskLet;
 
-public class Main {
-
-	
+public class StepDemo {
 	
 	public static void main(String[] args) throws Exception {
 		//jobRepository  和    transactionManager
